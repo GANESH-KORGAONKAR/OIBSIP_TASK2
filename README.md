@@ -22,6 +22,7 @@ The fun and easy project “Number Guessing Game” is a short Java project that
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
+- [Sample Output](#sample-output)
 - [Acknowledgements](#acknowledgements)
 
 ## Requirements
@@ -41,5 +42,14 @@ The fun and easy project “Number Guessing Game” is a short Java project that
 - After each round, the correct number and your score will be displayed.
 - The game will continue for the specified number of rounds, and your total score will be displayed at the end.
 
+## Sample Output
+### Output Screenshot
+
+### 1]
+<img src="https://github.com/user-attachments/assets/ff67390f-e135-405d-a20e-5abe89221a7a" alt="Number Guessing Game OutPut 1" width="500" height="300" align="center">
+
+### 2]
+<img src="https://github.com/user-attachments/assets/b0d9e3f2-6540-4e85-a393-6aa778d560b9" alt="Number Guessing Game OutPut 2" width="500" height="300" align="center">
+
 ## Acknowledgements
-This project is a part of the Oasis Infobyte Internship Program. It is designed to help interns practice and improve their Java programming skills through a fun and engaging project. Additionally, I received valuable assistance in adding comments and refining the code from ChatGPT.
+I would like to express my gratitude to Oasis Infobyte for providing this opportunity. Additionally, I received valuable assistance in adding comments and refining the code from ChatGPT, which helped enhance the quality of this project.
